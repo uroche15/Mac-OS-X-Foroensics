@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/Users/Umer/Desktop/Yr 3/Project/Toolkit/Libraries/poi-3.11/poi-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="/Users/Umer/Desktop/Yr 3/Project/Toolkit/Libraries/poi-3.11/poi-examples-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="/Users/Umer/Desktop/Yr 3/Project/Toolkit/Libraries/poi-3.11/poi-excelant-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="/Users/Umer/Desktop/Yr 3/Project/Toolkit/Libraries/poi-3.11/poi-ooxml-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="/Users/Umer/Desktop/Yr 3/Project/Toolkit/Libraries/poi-3.11/poi-ooxml-schemas-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="/Users/Umer/Desktop/Yr 3/Project/Toolkit/Libraries/poi-3.11/poi-scratchpad-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="/Users/Umer/Desktop/Yr 3/Project/Toolkit/Libraries/commons-io-2.4/commons-io-2.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/Umer/Desktop/Yr 3/Project/Toolkit/Libraries/commons-io-2.4/commons-io-2.4-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Umer/Desktop/Yr 3/Project/Toolkit/Libraries/commons-io-2.4/commons-io-2.4-test-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Umer/Desktop/Yr 3/Project/Toolkit/Libraries/commons-io-2.4/commons-io-2.4-tests.jar"/>
+	<classpathentry kind="lib" path="/Users/Umer/Desktop/Yr 3/Project/Toolkit/Libraries/commons-io-2.4/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="/Users/Umer/Desktop/Yr 3/Project/Toolkit/Libraries/itext-5.5.4/itext-pdfa-5.5.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/Umer/Desktop/Yr 3/Project/Toolkit/Libraries/itext-5.5.4/itext-pdfa-5.5.4-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Umer/Desktop/Yr 3/Project/Toolkit/Libraries/itext-5.5.4/itext-pdfa-5.5.4.jar"/>
+	<classpathentry kind="lib" path="/Users/Umer/Desktop/Yr 3/Project/Toolkit/Libraries/itext-5.5.4/itext-xtra-5.5.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/Umer/Desktop/Yr 3/Project/Toolkit/Libraries/itext-5.5.4/itext-xtra-5.5.4-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Umer/Desktop/Yr 3/Project/Toolkit/Libraries/itext-5.5.4/itext-xtra-5.5.4.jar"/>
+	<classpathentry kind="lib" path="/Users/Umer/Desktop/Yr 3/Project/Toolkit/Libraries/itext-5.5.4/itextpdf-5.5.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/Umer/Desktop/Yr 3/Project/Toolkit/Libraries/itext-5.5.4/itextpdf-5.5.4-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Umer/Desktop/Yr 3/Project/Toolkit/Libraries/itext-5.5.4/itextpdf-5.5.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
